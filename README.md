@@ -30,4 +30,4 @@ See [Configuration Reference](https://cli.vuejs.org/config/).
 
 ### Application URL
 
-https://61abcba4cefb117db10f2f6c--vue-todo-kaban.netlify.app
+https://61abd78b09984aab843f7c69--vue-todo-kaban.netlify.app

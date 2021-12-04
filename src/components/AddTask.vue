@@ -88,7 +88,7 @@ export default {
       } else {
         this.title_error = "";
       }
-      if (!this.list) {
+      if (this.list === "") {
         this.list_error = "Please select a list ";
       } else {
         this.list_error = "";
